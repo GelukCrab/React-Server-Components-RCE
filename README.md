@@ -63,12 +63,12 @@ React Server Components 远程RCE利用工具是一款专门针对 React Server 
 
 ### 启动工具
 
-1. 双击运行 `nextrce-exploit-1.0.0-jar-with-dependencies.jar` 文件
+1. 双击运行 `React Server Components 远程RCE.jar` 文件
 
 2. 或通过命令行启动：
 
    ```bash
-   java -jar nextrce-exploit-1.0.0-jar-with-dependencies.jar
+   java -jar React Server Components 远程RCE.jar
    ```
 
 3. 首次启动会显示免责声明，请仔细阅读并同意后继续使用
